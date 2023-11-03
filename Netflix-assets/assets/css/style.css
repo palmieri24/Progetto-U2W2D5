@@ -7,6 +7,10 @@ body {
   margin-top: 150px;
 }
 
+.settings {
+  color: #8c8c8c;
+}
+
 .strive {
   background-color: #666666;
 }
@@ -17,4 +21,6 @@ body {
 
 .serviceCode {
   background-color: #131313;
+  color: #8c8c8c;
+  border: #8c8c8c 1px solid;
 }
